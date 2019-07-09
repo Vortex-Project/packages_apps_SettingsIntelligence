@@ -36,7 +36,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.android.internal.util.custom.OverlayUtils;
+import com.android.internal.util.vortex.OverlayUtils;
 
 /**
  * Search loader for installed apps.
